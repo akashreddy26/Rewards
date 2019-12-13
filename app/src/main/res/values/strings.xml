@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rewards</string>
+    <string name="title_activity_reward">Reward Activity</string>
+    <string name="title_activity_new_profile">NewProfile Activity</string>
+    <string name="title_activity_edit">Edit Activity</string>
+    <string name="title_activity_lboard">Inspirational Leaderboard</string>
+    <string name="title_activity_profile">Profile Activity</string>
+</resources>

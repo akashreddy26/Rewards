@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Edit Your Profile"
+        android:id="@+id/editYourProfileMenu"
+        android:icon="@drawable/ic_edit_profile"
+        android:orderInCategory="100"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:title="Leaderboard Menu"
+        android:id="@+id/leaderboardMenu"
+        android:icon="@drawable/ic_menu_sort_size"
+        app:showAsAction="always"
+        android:orderInCategory="100">
+    </item>
+
+</menu>
